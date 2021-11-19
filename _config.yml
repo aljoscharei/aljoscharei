@@ -28,8 +28,8 @@ twitter_username: alj05cha
 github_username:  aljoscharei
 
 # Build settings
-# remote_theme: dirkfabisch/mediator
-theme: minima
+remote_theme: dirkfabisch/mediator
+# theme: minima
 plugins:
   - jekyll-feed
 
