@@ -28,7 +28,7 @@ twitter_username: alj05cha
 github_username:  aljoscharei
 
 # Build settings
-remote_theme: dirkfabisch/mediator
+remote_theme: rosario/kasper
 # theme: minima
 plugins:
   - jekyll-feed
