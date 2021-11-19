@@ -28,8 +28,8 @@ twitter_username: alj05cha
 github_username:  aljoscharei
 
 # Build settings
-remote_theme: rosario/kasper
-# theme: minima
+# remote_theme: jasper
+theme: minimal
 plugins:
   - jekyll-feed
 
