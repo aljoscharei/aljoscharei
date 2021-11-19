@@ -29,7 +29,7 @@ github_username:  aljoscharei
 
 # Build settings
 # remote_theme: jasper
-theme: minimal
+theme: Minimal
 plugins:
   - jekyll-feed
 
